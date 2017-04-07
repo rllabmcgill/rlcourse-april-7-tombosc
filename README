@@ -1,0 +1,3 @@
+Code is in lstm.py and test_lstm.py
+
+The error predictor is implemented but not actually used to guide exploration. I didn't have time to experiment with that as I couldn't tune the rest of the hyperparams properly (and guided exploration adds one parameter).
